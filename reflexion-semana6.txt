@@ -1,0 +1,9 @@
+s muy importante que las plataformas reciban información de forma estructurada por varias razones:
+
+- Los datos llegan organizados y con un formato uniforme, evitando errores o confusiones.
+- El sistema puede procesarlos automáticamente sin intervención manual, lo que agiliza la respuesta.
+- Facilita ordenar, buscar y priorizar los reportes para dar solución más rápido.
+- Se garantiza que la información se entienda igual tanto por la aplicación como por el servidor.
+- Permite llevar un registro claro y ordenado de cada caso, mejorando la gestión de los servicios.
+
+En resumen, hace que la plataforma sea más eficiente, confiable y útil para la comunidad.
