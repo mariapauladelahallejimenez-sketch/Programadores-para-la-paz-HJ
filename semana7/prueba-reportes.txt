@@ -1,0 +1,19 @@
+1. Ejecutar: node server.js
+
+2. Enviar por POST:
+URL: http://localhost:3000/reportes
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Respuesta:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": { "id": 1, "tipo": "Infraestructura", "descripcion": "Daño en alumbrado público" }
+}
+
+3. Consultar por GET:
+URL: http://localhost:3000/reportes
+Resultado:
+[ { "id": 1, "tipo": "Infraestructura", "descripcion": "Daño en alumbrado público" } ]
