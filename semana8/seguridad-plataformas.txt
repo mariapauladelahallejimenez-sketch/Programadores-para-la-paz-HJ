@@ -1,0 +1,5 @@
+1. No exponer datos personales ni información sensible
+2. Usar conexiones seguras (HTTPS)
+3. Asignar permisos según el rol de cada usuario
+4. Registrar accesos para detectar ingresos extraños
+5. Hacer copias de seguridad periódicas
