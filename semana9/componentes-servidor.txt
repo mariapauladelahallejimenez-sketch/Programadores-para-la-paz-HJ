@@ -1,0 +1,5 @@
+- Sistema operativo: Es la base que gestiona todos los recursos del equipo y permite instalar y ejecutar las aplicaciones.
+- Node.js: Entorno que permite ejecutar código JavaScript en el servidor para crear servicios web.
+- server.js: Es el programa que define las rutas, respuestas y reglas de funcionamiento del servidor.
+- Puerto: Es el canal de comunicación por donde entran y salen las solicitudes, en este caso el 3000.
+- Logs: Registran todas las acciones y errores, sirven para revisar el estado y solucionar fallas.
