@@ -1,0 +1,7 @@
+La interfaz contará con un área principal donde se muestran todos los reportes comunitarios disponibles, con su título, breve descripción y ubicación.
+
+Tendrá un formulario sencillo para crear un nuevo reporte, donde el usuario escribe el título, explica el problema y agrega la ubicación.
+
+Cada reporte tendrá un botón para dar seguimiento o indicar que también afecta al vecino, y un contador que muestra cuántas personas han apoyado ese reporte.
+
+Solo se muestra información pública; los datos personales de quien reporta solo son visibles para el equipo de gestión.
