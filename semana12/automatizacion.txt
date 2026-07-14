@@ -1,0 +1,3 @@
+Evento: Una petición alcanza el número mínimo de apoyos necesarios
+Mensaje enviado: "¡Felicidades! Tu petición ha superado los apoyos requeridos, ya puedes descargar el documento oficial."
+Información que NO se debe compartir por seguridad: documentos de identidad, números de teléfono, direcciones domiciliarias, correos electrónicos privados, datos bancarios.

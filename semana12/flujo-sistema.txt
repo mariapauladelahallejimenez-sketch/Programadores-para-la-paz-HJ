@@ -1,0 +1,13 @@
+1. Una persona se registra o accede a la plataforma de forma sencilla.
+
+2. Crea una nueva petición, escribiendo el tema y la descripción de la causa que quiere impulsar.
+
+3. El sistema guarda la petición en la base de datos y la hace visible al resto de la comunidad.
+
+4. Otras personas revisan la información y dan su apoyo con un solo clic.
+
+5. El sistema lleva el conteo automático de todos los apoyos recibidos.
+
+6. Al alcanzar el número mínimo de apoyos, el sistema genera el documento oficial en PDF con toda la información de la petición.
+
+7. El usuario puede descargar el PDF para presentarlo ante las autoridades correspondientes.

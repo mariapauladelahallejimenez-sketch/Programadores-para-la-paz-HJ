@@ -1,0 +1,15 @@
+Entidad: Causa
+Sirve para guardar toda la información de cada petición o iniciativa de la comunidad.
+Campos:
+- id: Identificador único para diferenciar cada causa
+- titulo: Nombre breve y claro de la petición
+- descripcion: Explicación detallada del objetivo de la causa
+- fecha: Día y hora en que se creó la petición
+
+Entidad: Apoyo
+Sirve para registrar cada respaldo que recibe una causa específica.
+Campos:
+- id: Identificador único de cada apoyo
+- causa_id: Enlace con la causa a la que pertenece el apoyo
+- nombre: Nombre de la persona que da su respaldo
+- fecha: Día en que se registró el apoyo
